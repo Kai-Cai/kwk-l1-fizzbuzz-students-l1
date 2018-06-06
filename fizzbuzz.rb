@@ -3,8 +3,8 @@
 # if /15 --> FizzBuzz
 
 
-# puts "What is your number?"
-# @number = gets.chomp
+puts "What is your number?"
+number = gets.chomp
 
 
 
@@ -19,5 +19,5 @@ end
 end
 
 
-fizzbuzz(51)
+fizzbuzz(number)
 
