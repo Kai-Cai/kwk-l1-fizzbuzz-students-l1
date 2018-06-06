@@ -8,7 +8,7 @@
 
 
 
-fizzbuzz(45)
+fizzbuzz(3)
 
 
 def fizzbuzz(number)
