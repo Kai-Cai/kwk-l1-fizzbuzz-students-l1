@@ -10,8 +10,8 @@ def fizzbuzz(number)
   puts "Fizz"
   else number % 5 == 0
   puts "Buzz"
-# else number % 15 == 0
-#   puts "FizzBuzz"
+else number % 15 == 0
+  puts "FizzBuzz"
 end
 end
 
