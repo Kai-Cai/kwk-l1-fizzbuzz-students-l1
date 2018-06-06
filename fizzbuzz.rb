@@ -4,11 +4,11 @@
 
 
 puts "What is your number?"
-number = gets.chomp
+@number = gets.chomp
 
 
 
-fizzbuzz(number)
+fizzbuzz(@number)
 
 
 def fizzbuzz(number)
