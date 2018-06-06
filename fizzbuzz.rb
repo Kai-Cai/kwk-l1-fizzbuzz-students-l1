@@ -8,9 +8,6 @@
 
 
 
-fizzbuzz(3)
-
-
 def fizzbuzz(number)
   if number % 15 == 0
   puts "FizzBuzz"
@@ -22,5 +19,5 @@ end
 end
 
 
-
+fizzbuzz(3)
 
