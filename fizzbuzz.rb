@@ -6,6 +6,7 @@
 puts "What is your number?"
 number = gets.chomp
 
+puts "#{number} is a cool number."
 
 # fizzbuzz(#{number})
 
