@@ -15,7 +15,7 @@ def fizzbuzz(number)
   puts "Fizz"
   elsif number % 5 == 0
   puts "Buzz"
-else number != 0
+else number % 15 != 0
   puts "Ah too bad!"
 end
 end
