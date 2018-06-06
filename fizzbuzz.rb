@@ -6,11 +6,11 @@
 
 
 def fizzbuzz(number)
-  if #{number} % 3 == 0
+  if number % 3 == 0
   puts "Fizz"
-  elsif #{number} %5 == 0
+  elsif number %5 == 0
   puts "Buzz"
-else #{number} %15 == 0
+else number %15 == 0
 end
 end
 
