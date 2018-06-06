@@ -19,5 +19,5 @@ end
 end
 
 
-fizzbuzz(45)
+fizzbuzz(51)
 
