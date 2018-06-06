@@ -2,7 +2,15 @@
 # if /5 --> Buzz
 # if /15 --> FizzBuzz
 
-if number % 3 == 0
+
+def fizzbuzz
+  if #{number} % 3 == 0
+  puts "Fizz"
+  elsif #{number} %5 == 0
+  puts "Buzz"
+else #{number} %15 == 0
+end
+
 
 
 
