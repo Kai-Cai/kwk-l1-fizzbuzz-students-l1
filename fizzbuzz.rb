@@ -16,6 +16,7 @@ def fizzbuzz(number)
   elsif number % 5 == 0
   puts "Buzz"
 else number != 0
+  puts "Ah too bad!"
 end
 end
 
