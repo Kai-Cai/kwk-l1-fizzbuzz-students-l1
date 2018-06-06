@@ -12,7 +12,6 @@ def fizzbuzz(number)
   puts "Fizz"
   else number % 5 == 0
   puts "Buzz"
-else 
 end
 end
 
