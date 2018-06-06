@@ -3,9 +3,10 @@
 # if /15 --> FizzBuzz
 
 
-number = 3
+
 
 def fizzbuzz(number)
+  number = 3
   if #{number} % 3 == 0
   puts "Fizz"
   elsif #{number} %5 == 0
