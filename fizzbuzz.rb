@@ -6,7 +6,6 @@
 
 
 def fizzbuzz(number)
-  number = 3
   if #{number} % 3 == 0
   puts "Fizz"
   elsif #{number} %5 == 0
@@ -16,7 +15,7 @@ end
 end
 
 
-fizzbuzz
+fizzbuzz(3)
 
 
 # if
