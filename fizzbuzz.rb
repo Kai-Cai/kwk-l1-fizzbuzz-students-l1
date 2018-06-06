@@ -16,7 +16,7 @@ end
 end
 
 
-fizzbuzz(5)
+fizzbuzz(3)
 
 
 # # if
