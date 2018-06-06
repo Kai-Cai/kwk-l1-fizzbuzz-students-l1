@@ -2,6 +2,9 @@
 # if /5 --> Buzz
 # if /15 --> FizzBuzz
 
+number % 3 == 0
+
+
 
 
 # if
