@@ -10,6 +10,7 @@ def fizzbuzz
   puts "Buzz"
 else #{number} %15 == 0
 end
+end
 
 
 
