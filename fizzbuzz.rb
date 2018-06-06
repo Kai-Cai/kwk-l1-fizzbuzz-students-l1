@@ -37,9 +37,9 @@ end
 # end  
 
 
-it 'returns "Fizz" when the number is divisible by 3' do
-  # Code that actually does what we're testing and confirms the desired result
-end
+# it 'returns "Fizz" when the number is divisible by 3' do
+#   # Code that actually does what we're testing and confirms the desired result
+# end
 
 
 
