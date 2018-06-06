@@ -6,18 +6,18 @@
 puts "What is your number?"
 number = gets.chomp
 
-fizzbuzz(#{number})
+# fizzbuzz(#{number})
 
 
-def fizzbuzz(number)
-  if number % 15 == 0
-  puts "FizzBuzz"
-  elsif number % 3 == 0
-  puts "Fizz"
-  else number % 5 == 0
-  puts "Buzz"
-end
-end
+# def fizzbuzz(number)
+#   if number % 15 == 0
+#   puts "FizzBuzz"
+#   elsif number % 3 == 0
+#   puts "Fizz"
+#   else number % 5 == 0
+#   puts "Buzz"
+# end
+# end
 
 
 
