@@ -5,7 +5,7 @@
 
 puts "What is your number?"
 number = gets.chomp.to_i 
-puts number.inspect
+puts number.class 
 
 
 
